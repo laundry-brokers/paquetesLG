@@ -16,7 +16,7 @@
                     <img src="/public/img/LG_Land_Promo_4toTrim_Tex_Emprend.png" width="200" alt="" class="img-fluid">
                 </div>
                 <div class="d-flex justify-content-center">
-                    <img src="/public/img/LG_Land_Promo_4toTrim_Tex_Empre_descrip.png" alt="" class="img-fluid">
+                    <img src="/public/img/LG_Land_Promo_4toTrim_Tex_Empre_descripv3.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@
                     <img src="/public/img/LG_Land_Promo_4toTrim_Tex_Gana.png" width="180" alt="" class="img-fluid">
                 </div>
                 <div>
-                    <img src="/public/img/LG_Land_Promo_4toTrim_Tex_Gana_descripV2.png" alt="" class="img-fluid">
+                    <img src="/public/img/LG_Land_Promo_4toTrim_Tex_Gana_descripv3.png" alt="" class="img-fluid">
                 </div>
             </div>
 
